@@ -10,7 +10,7 @@ npm i vue-simple-fullscreen
 
 ```js
 import Vue from 'vue'
-import FullScreen from 'vue-fullscreen'
+import FullScreen from 'vue-simple-fullscreen'
 Vue.use(FullScreen)
 ```
 
