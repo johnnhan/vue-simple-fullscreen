@@ -41,5 +41,10 @@
     "type": "git",
     "url": "https://github.com/johnnhan/vue-simple-fullscreen.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "simple",
+    "fullscreen"
+  ]
 }
