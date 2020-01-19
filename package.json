@@ -1,6 +1,6 @@
 {
   "name": "vue-simple-fullscreen",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "dist/vue-simple-fullscreen.umd.js",
   "scripts": {
     "lint": "vue-cli-service lint",
@@ -36,5 +36,9 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnnhan/vue-simple-fullscreen.git"
+  }
 }
